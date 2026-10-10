@@ -1,0 +1,6 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+~$*
